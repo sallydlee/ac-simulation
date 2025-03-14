@@ -1,0 +1,418 @@
+
+--- Villager States at Hour 0 ---
+Villager 1 (normal): playing
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): playing
+Villager 5 (cranky): shopping
+Villager 6 (jock): eating
+Villager 7 (smug): reading
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): reading
+-----------------------------------
+
+
+--- Villager States at Hour 1 ---
+Villager 1 (normal): playing
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): playing
+Villager 5 (cranky): shopping
+Villager 6 (jock): sleeping
+Villager 7 (smug): reading
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): reading
+-----------------------------------
+
+
+--- Villager States at Hour 2 ---
+Villager 1 (normal): playing
+Villager 2 (smug): sleeping
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): playing
+Villager 5 (cranky): shopping
+Villager 6 (jock): sleeping
+Villager 7 (smug): sleeping
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): reading
+-----------------------------------
+
+
+--- Villager States at Hour 3 ---
+Villager 1 (normal): playing
+Villager 2 (smug): sleeping
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): shopping
+Villager 6 (jock): sleeping
+Villager 7 (smug): sleeping
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): reading
+-----------------------------------
+
+
+--- Villager States at Hour 4 ---
+Villager 1 (normal): playing
+Villager 2 (smug): sleeping
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): sleeping
+Villager 6 (jock): sleeping
+Villager 7 (smug): sleeping
+Villager 8 (normal): reading
+Villager 9 (cranky): sleeping
+Villager 10 (lazy): reading
+-----------------------------------
+
+
+--- Villager States at Hour 5 ---
+Villager 1 (normal): playing
+Villager 2 (smug): sleeping
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): sleeping
+Villager 6 (jock): sleeping
+Villager 7 (smug): sleeping
+Villager 8 (normal): reading
+Villager 9 (cranky): sleeping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 6: Villager 8 (normal) starts playing.
+Time 6: Villager 1 (normal) starts playing.
+
+--- Villager States at Hour 6 ---
+Villager 1 (normal): playing
+Villager 2 (smug): sleeping
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): sleeping
+Villager 6 (jock): sleeping
+Villager 7 (smug): sleeping
+Villager 8 (normal): playing
+Villager 9 (cranky): sleeping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 7: Villager 7 (smug) starts playing.
+Time 7: Villager 2 (smug) starts exercising.
+
+--- Villager States at Hour 7 ---
+Villager 1 (normal): playing
+Villager 2 (smug): exercising
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): sleeping
+Villager 6 (jock): sleeping
+Villager 7 (smug): playing
+Villager 8 (normal): playing
+Villager 9 (cranky): sleeping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 8: Villager 8 (normal) starts playing.
+Time 8: Villager 1 (normal) starts exercising.
+Time 8: Villager 7 (smug) starts reading.
+Time 8: Villager 6 (jock) starts exercising.
+
+--- Villager States at Hour 8 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): exercising
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): sleeping
+Villager 6 (jock): exercising
+Villager 7 (smug): reading
+Villager 8 (normal): playing
+Villager 9 (cranky): sleeping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 9: Villager 5 (cranky) starts reading.
+Time 9: Villager 7 (smug) starts playing.
+Time 9: Villager 6 (jock) starts shopping.
+Time 9: Villager 9 (cranky) starts shopping.
+
+--- Villager States at Hour 9 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): exercising
+Villager 3 (peppy): sleeping
+Villager 4 (sisterly): sleeping
+Villager 5 (cranky): reading
+Villager 6 (jock): shopping
+Villager 7 (smug): playing
+Villager 8 (normal): playing
+Villager 9 (cranky): shopping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 10: Villager 8 (normal) starts reading.
+Time 10: Villager 4 (sisterly) starts reading.
+Time 10: Villager 2 (smug) starts eating.
+Time 10: Villager 3 (peppy) starts shopping.
+Time 10: Villager 7 (smug) starts playing.
+
+--- Villager States at Hour 10 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): eating
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): reading
+Villager 5 (cranky): reading
+Villager 6 (jock): shopping
+Villager 7 (smug): playing
+Villager 8 (normal): reading
+Villager 9 (cranky): shopping
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 11: Villager 6 (jock) starts exercising.
+Time 11: Villager 9 (cranky) starts reading.
+Time 11: Villager 3 (peppy) starts shopping.
+Time 11: Villager 1 (normal) starts reading.
+
+--- Villager States at Hour 11 ---
+Villager 1 (normal): reading
+Villager 2 (smug): eating
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): reading
+Villager 5 (cranky): reading
+Villager 6 (jock): exercising
+Villager 7 (smug): playing
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): reading
+-----------------------------------
+
+Time 12: Villager 5 (cranky) starts reading.
+Time 12: Villager 6 (jock) starts exercising.
+Time 12: Villager 10 (lazy) starts eating.
+Time 12: Villager 2 (smug) starts eating.
+
+--- Villager States at Hour 12 ---
+Villager 1 (normal): reading
+Villager 2 (smug): eating
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): reading
+Villager 5 (cranky): reading
+Villager 6 (jock): exercising
+Villager 7 (smug): playing
+Villager 8 (normal): reading
+Villager 9 (cranky): reading
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 13: Villager 8 (normal) starts exercising.
+Time 13: Villager 7 (smug) starts shopping.
+Time 13: Villager 3 (peppy) starts playing.
+Time 13: Villager 2 (smug) starts shopping.
+Time 13: Villager 4 (sisterly) starts eating.
+Time 13: Villager 9 (cranky) starts reading.
+Time 13: Villager 5 (cranky) starts reading.
+
+--- Villager States at Hour 13 ---
+Villager 1 (normal): reading
+Villager 2 (smug): shopping
+Villager 3 (peppy): playing
+Villager 4 (sisterly): eating
+Villager 5 (cranky): reading
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 14: Villager 1 (normal) starts shopping.
+Time 14: Villager 10 (lazy) starts exercising.
+Time 14: Villager 9 (cranky) starts reading.
+Time 14: Villager 2 (smug) starts reading.
+
+--- Villager States at Hour 14 ---
+Villager 1 (normal): shopping
+Villager 2 (smug): reading
+Villager 3 (peppy): playing
+Villager 4 (sisterly): eating
+Villager 5 (cranky): reading
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): exercising
+-----------------------------------
+
+Time 15: Villager 5 (cranky) starts exercising.
+Time 15: Villager 1 (normal) starts playing.
+Time 15: Villager 6 (jock) starts exercising.
+Time 15: Villager 4 (sisterly) starts reading.
+
+--- Villager States at Hour 15 ---
+Villager 1 (normal): playing
+Villager 2 (smug): reading
+Villager 3 (peppy): playing
+Villager 4 (sisterly): reading
+Villager 5 (cranky): exercising
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): exercising
+-----------------------------------
+
+Time 16: Villager 7 (smug) starts shopping.
+Time 16: Villager 8 (normal) starts exercising.
+Time 16: Villager 3 (peppy) starts shopping.
+Time 16: Villager 10 (lazy) starts shopping.
+Time 16: Villager 5 (cranky) starts exercising.
+
+--- Villager States at Hour 16 ---
+Villager 1 (normal): playing
+Villager 2 (smug): reading
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): reading
+Villager 5 (cranky): exercising
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): shopping
+-----------------------------------
+
+Time 17: Villager 2 (smug) starts shopping.
+Time 17: Villager 4 (sisterly) starts socializing with Villager 9.
+Time 17: Villager 9 (cranky) starts reading.
+Time 17: Villager 1 (normal) starts exercising.
+
+--- Villager States at Hour 17 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): socializing
+Villager 5 (cranky): exercising
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): shopping
+-----------------------------------
+
+Time 18: Villager 10 (lazy) starts exercising.
+Time 18: Villager 6 (jock) starts exercising.
+Time 18: Villager 7 (smug) starts shopping.
+Time 18: Villager 3 (peppy) starts eating.
+
+--- Villager States at Hour 18 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): shopping
+Villager 3 (peppy): eating
+Villager 4 (sisterly): socializing
+Villager 5 (cranky): exercising
+Villager 6 (jock): exercising
+Villager 7 (smug): shopping
+Villager 8 (normal): exercising
+Villager 9 (cranky): reading
+Villager 10 (lazy): exercising
+-----------------------------------
+
+Time 19: Villager 2 (smug) starts exercising.
+Time 19: Villager 1 (normal) starts exercising.
+Time 19: Villager 5 (cranky) starts shopping.
+Time 19: Villager 10 (lazy) starts eating.
+Time 19: Villager 6 (jock) starts eating.
+Time 19: Villager 8 (normal) starts playing.
+
+--- Villager States at Hour 19 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): exercising
+Villager 3 (peppy): eating
+Villager 4 (sisterly): socializing
+Villager 5 (cranky): shopping
+Villager 6 (jock): eating
+Villager 7 (smug): shopping
+Villager 8 (normal): playing
+Villager 9 (cranky): reading
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 20: Villager 7 (smug) starts shopping.
+Time 20: Villager 2 (smug) starts shopping.
+Time 20: Villager 6 (jock) starts shopping.
+Time 20: Villager 9 (cranky) starts reading.
+Time 20: Villager 3 (peppy) starts shopping.
+Time 20: Villager 4 (sisterly) starts exercising.
+
+--- Villager States at Hour 20 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): exercising
+Villager 5 (cranky): shopping
+Villager 6 (jock): shopping
+Villager 7 (smug): shopping
+Villager 8 (normal): playing
+Villager 9 (cranky): reading
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 21: Villager 8 (normal) starts playing.
+Time 21: Villager 6 (jock) starts reading.
+Time 21: Villager 2 (smug) starts shopping.
+Time 21: Villager 1 (normal) starts exercising.
+Time 21: Villager 9 (cranky) starts eating.
+
+--- Villager States at Hour 21 ---
+Villager 1 (normal): exercising
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): exercising
+Villager 5 (cranky): shopping
+Villager 6 (jock): reading
+Villager 7 (smug): shopping
+Villager 8 (normal): playing
+Villager 9 (cranky): eating
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 22: Villager 3 (peppy) starts shopping.
+Time 22: Villager 7 (smug) starts eating.
+Time 22: Villager 1 (normal) starts exercising.
+Time 22: Villager 10 (lazy) starts eating.
+Time 22: Villager 5 (cranky) starts reading.
+
+--- Villager States at Hour 22 ---
+Villager 1 (normal): sleeping
+Villager 2 (smug): shopping
+Villager 3 (peppy): shopping
+Villager 4 (sisterly): exercising
+Villager 5 (cranky): reading
+Villager 6 (jock): reading
+Villager 7 (smug): eating
+Villager 8 (normal): sleeping
+Villager 9 (cranky): eating
+Villager 10 (lazy): eating
+-----------------------------------
+
+Time 23: Villager 8 (normal) starts playing.
+Time 23: Villager 3 (peppy) starts exercising.
+Time 23: Villager 10 (lazy) starts eating.
+Time 23: Villager 5 (cranky) starts reading.
+Time 23: Villager 4 (sisterly) starts exercising.
+Time 23: Villager 6 (jock) starts exercising.
+Time 23: Villager 7 (smug) starts playing.
+Time 23: Villager 1 (normal) starts playing.
+
+--- Villager States at Hour 23 ---
+Villager 1 (normal): playing
+Villager 2 (smug): shopping
+Villager 3 (peppy): exercising
+Villager 4 (sisterly): exercising
+Villager 5 (cranky): reading
+Villager 6 (jock): exercising
+Villager 7 (smug): playing
+Villager 8 (normal): playing
+Villager 9 (cranky): eating
+Villager 10 (lazy): sleeping
+-----------------------------------
